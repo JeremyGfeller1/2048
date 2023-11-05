@@ -1,0 +1,15 @@
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/bin/Debug/net7.0/Game2048
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/bin/Debug/net7.0/Game2048.deps.json
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/bin/Debug/net7.0/Game2048.runtimeconfig.json
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/bin/Debug/net7.0/Game2048.dll
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/bin/Debug/net7.0/Game2048.pdb
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.csproj.AssemblyReference.cache
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.AssemblyInfoInputs.cache
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.AssemblyInfo.cs
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.csproj.CoreCompileInputs.cache
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.dll
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/refint/Game2048.dll
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.pdb
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/Game2048.genruntimeconfig.cache
+/Users/jeremy/cpnv/2023-2024/T2/MA-20/Game2048/Game2048/obj/Debug/net7.0/ref/Game2048.dll
